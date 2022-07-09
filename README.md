@@ -16,6 +16,7 @@ It took the combined effort of 6 Software students:
 
 Written mostly in Java, GUI in JavaFX and CSS.
 The system allows a Flower Shop to operate as an e-commerce platform. Providing functionalities such as:
+
 	-	Login & Authorization based on roles
 	-	Dynamic Catalog - an Employee can modify, create or remove items from the catalog
 	-	Order System - Customer can place orders which then can be approved by the relevant Branch Manager
@@ -24,6 +25,7 @@ The system allows a Flower Shop to operate as an e-commerce platform. Providing 
 	-	Complaint System - Customer can submit a Customer Service Complaint which then a relevant Employee determines the compensation
 
 The UI/UX is carefully designed to meet today's standards, notable mentions are:
+
 	-	Dashboard like design
 	-	Consistency throughout in User Controls design, positioning & flow
 	-	Error prevention (e.g. Disabling irrelevant fields on forms)
