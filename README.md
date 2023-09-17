@@ -31,10 +31,12 @@ The UI/UX is carefully designed to meet today's standards, notable mentions are:
 	-	Error prevention (e.g. Disabling irrelevant fields on forms)
 
 
-Diagrams: 
-	-	Class Diagram:
+Class Diagram: 
  
-		![Class Diagram](https://github.com/Gal-Amar/Zerli/assets/98986926/9aa5d7aa-8eb6-4d5b-a4d0-77368552669d)
+![Class Diagram](https://github.com/Gal-Amar/Zerli/assets/98986926/9aa5d7aa-8eb6-4d5b-a4d0-77368552669d)
+
+
+	
 
 
 
